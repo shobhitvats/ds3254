@@ -1,0 +1,142 @@
+1. Find the specifications of your laptop/PC. Give as many details as possible.
+    (CPU, Cores, Hyperthreading, GPU, Cache, RAM, Storage, Capacity, Frequency, Power consumption, Battery, ...)
+
+CPU (Processor):
+
+Model: Intel Core i7-10750H (10th Generation)
+Cores: 6 cores
+Threads: 12 threads (supports Hyperthreading)
+Base Clock: 2.6 GHz
+Max Turbo Boost: 5.0 GHz (with Intel Turbo Boost Technology)
+Cache: 12MB Intel Smart Cache
+Architecture: 10nm Comet Lake
+TDP (Thermal Design Power): 45W (typical for high-performance mobile processors)
+
+
+GPU (Graphics Card):
+
+Model: NVIDIA GeForce RTX 3060
+VRAM: 6 GB GDDR6
+GPU Architecture: Ampere
+CUDA Cores: 3584
+Ray Tracing and DLSS: Supports real-time ray tracing and DLSS (Deep Learning Super Sampling) for enhanced gaming visuals.
+
+
+RAM (Memory):
+
+Size: 16 GB DDR4
+Speed: 2933 MHz (likely)
+Configuration: Dual-channel (2 x 8 GB)
+Upgradeability: Supports up to 64 GB of RAM in dual-channel slots.
+
+
+Storage:
+
+Type: 1 TB NVMe SSD
+Interface: PCIe Gen 3.0 x4
+Speed: Very fast read/write speeds (up to 3500 MB/s for reads, depending on the specific SSD used).
+
+
+Display:
+
+Size: 15.6 inches
+Resolution: Full HD (1920 x 1080 pixels)
+Refresh Rate: 144 Hz
+Panel Type: IPS (In-Plane Switching)
+Brightness: Around 250-300 nits (standard for gaming laptops)
+Color Gamut: 45% NTSC (suitable for gaming but not ideal for professional photo editing or color work)
+
+
+Battery:
+
+Battery Capacity: 51Wh or 52Wh
+Battery Life:
+Around 4 to 6 hours for light tasks like web browsing or media consumption.
+Gaming will significantly reduce battery life to 2-3 hours depending on workload and settings.
+
+
+Cooling:
+
+Cooler Boost Technology: Dual fans with dedicated heat pipes for effective thermal management.
+Noise Levels: Fairly loud under heavy load (gaming or rendering), but helps to maintain performance and prevent thermal throttling.
+
+
+Ports and Connectivity:
+
+USB Ports:
+1 x USB 3.2 Type-C
+3 x USB 3.2 Type-A
+Video Output: 1 x HDMI 2.0 (supports up to 4K 60Hz output)
+Networking:
+1 x RJ45 Ethernet port (Gigabit Ethernet)
+Wi-Fi 6 (802.11ax) for faster wireless speeds and lower latency
+Bluetooth 5.1 for wireless peripherals
+Audio:
+1 x 3.5mm headphone/microphone combo jack
+DTS:X Ultra sound for immersive gaming and movie experiences
+
+
+
+
+2. How would you select a new laptop or PC if you were buying one?
+    (Gaming, Graphic designer, Video editing, physics simulation ...)
+
+A. Gaming Laptop/PC
+
+CPU: A 6-core or 8-core processor (Intel Core i7 or i9, AMD Ryzen 7 or 9). A higher 
+          clock speed helps with gaming performance, but cores are critical for multitasking and 
+          future-proofing.
+GPU: A powerful GPU is critical for gaming. Choose a NVIDIA RTX 3060 or higher for good 
+          performance at 1080p/1440p. If you're targeting 4K gaming, look at an RTX 3080 or RTX 
+          3090.
+RAM: 16GB of DDR4 RAM is typically enough for gaming. For heavy multitasking, streaming, or 
+           modded games, you might want to go with 32GB.
+Storage: At least 512GB SSD for fast load times. Many gamers opt for a 1TB SSD to hold 
+                several games, with an additional HDD for storage.
+Display: Look for a 144Hz or 240Hz refresh rate for smooth gaming. IPS panels are best for 
+               accurate color reproduction.
+Cooling: Good cooling is essential for maintaining high performance during long gaming 
+                sessions, so choose a laptop with dual fans or a laptop cooler if necessary.
+
+
+B. Graphic Design or Content Creation
+
+CPU: An Intel Core i7 or AMD Ryzen 7 will handle creative software like Photoshop, Illustrator, 
+          or 3D rendering applications like Blender and Autodesk.
+GPU: While a dedicated GPU like the RTX 3060/3070 helps with tasks like 3D modeling, you 
+          could also look at NVIDIA Quadro cards for professional design work.
+RAM: At least 16GB of RAM, though 32GB is recommended for larger files, 4K video editing, 
+           and complex 3D modeling.
+Storage: A 1TB SSD is ideal for fast access to your files, and you might want additional HDD or 
+                cloud storage for backup.
+Display: A 15.6” or 17” IPS display with 100% sRGB or Adobe RGB color accuracy is key for 
+               accurate editing.
+Other features: Consider extra features like Thunderbolt 3/4 ports for fast data transfer, or a 4K 
+                           display for pixel-perfect accuracy.
+
+
+C. Video Editing and Post-Production
+
+CPU: A multi-core processor (Intel Core i7, i9, or AMD Ryzen 7/9) is critical for handling heavy 
+          video editing workflows.
+GPU: A GeForce RTX 3060 or higher for rendering and GPU-accelerated editing in software like 
+          Premiere Pro or DaVinci Resolve.
+RAM: 32GB of RAM is a good baseline for video editing. More RAM is beneficial for handling 
+           large 4K or multi-stream video projects.
+Storage: At least a 1TB SSD for your main editing drive, and an additional HDD for storing raw 
+                footage.
+Display: Preferably a 4K display with high color accuracy (e.g., 100% AdobeRGB or DCI-P3).
+Other features: Consider laptops with Thunderbolt 3/4 for faster media transfers, or desktops 
+                           with multiple storage options and expansion slots.
+
+
+D. Physics Simulation or High-Performance Computing
+
+CPU: A high-performance CPU with a high core count (e.g., Intel Xeon or AMD Ryzen 
+          Threadripper).
+GPU: For simulations using CUDA (e.g., AI/ML or scientific modeling), a powerful NVIDIA RTX 
+          3080/3090 or even a Tesla/Quadro series card would be ideal.
+RAM: 64GB or more is recommended for handling large datasets.
+Storage: A combination of a fast NVMe SSD for OS and software, with a large HDD for data 
+                storage.
+Cooling: Liquid cooling is often needed for long, high-power computation tasks.
